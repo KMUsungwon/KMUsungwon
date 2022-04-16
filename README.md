@@ -18,3 +18,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMUsungwon&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
